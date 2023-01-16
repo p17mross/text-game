@@ -12,4 +12,4 @@ A text based rpg-ish thing in python.
   * Simple AI behaviour
 * Secret rooms and items
 * 3 different endings
-* Fancy scrolling text
+* Fancy scrolling text  
