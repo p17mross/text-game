@@ -166,7 +166,7 @@ class Key(Item):
         self.name = "Golden Key"
         self.description = "The key you found in a drawer"
         self.verb = VERB_USE
-    def use(self):
+    def use(self, user: Combatant, other: Combatant):
         printScroll("It's a key")
         printScroll("You can't attack someone with a key")
 
