@@ -214,7 +214,7 @@ def servants_passage_secret(player: Player):
     SERVANTS_PASSAGE.add_connection(DOCK, "You open the secret door, and see glorious sunlight on the ocean below.")
 BUTLER_WORDS = random_third_person_words()
 SERVANTS_PASSAGE = Room (
-    title = "Servants' Passage",
+    title = "The Servants' Passage",
     description = "a narrow, dimly lit corridor. It contains many twists and turns",
     
     enemy = Enemy (
