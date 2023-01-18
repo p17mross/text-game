@@ -14,4 +14,4 @@ A text based rpg-ish thing in python.
 * 3 different endings
 * Fancy scrolling text 
 
-[Tests are document here](testing.md)
+[Tests are documented here](testing.md)
